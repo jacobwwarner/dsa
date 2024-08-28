@@ -1,4 +1,4 @@
-// Runtime Complexity: O(n^2), O(n) when starting from a sorted array.
+// Runtime Complexity: O(n^2), O(n) when starting from a sorted array. Better for (almost) sorted data.
 // Space Complexity: O(1)
 function insertionSort(arr) {
     let temp;
